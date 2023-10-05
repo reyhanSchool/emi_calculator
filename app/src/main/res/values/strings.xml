@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="principal_amount">Mortgage Principal Amount</string>
+    <string name="interest_rate">Yearly Interest Rate</string>
+    <string name="amortization_period">Amortization Period</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="result_presentation">Your monthly EMI is: $</string>
+</resources>
